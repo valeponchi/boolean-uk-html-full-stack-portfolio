@@ -10,6 +10,14 @@ body {
   background-color: black;
 }
 
+.back-to-index {
+  color: #fff;
+  font-size: 1rem;
+  margin-left: 10px;
+
+  cursor: pointer;
+}
+
 header,
 footer {
   background-color: rgb(42, 122, 171);

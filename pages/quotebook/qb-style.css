@@ -5,6 +5,12 @@
   font-family: sans-serif;
 }
 
+.back-to-index {
+  color: #950C0C;
+  font-size: 1.2rem;
+  margin-left: 10px;
+}
+
 body {
   display: grid;
   grid-template-rows: 100px 1fr 50px;
