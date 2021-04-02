@@ -268,7 +268,7 @@ header {
   cursor: pointer;
 }
 
-body a:hover { 
+body .back-to-top-link:hover { 
 background-color: rgb(185, 39, 95);
 }
 
